@@ -4,6 +4,7 @@ Project Instructions:
 Objective:
 In this project, you’ll create a Mad Libs game using Python. Mad Libs are a  word game where you create a silly story by filling in blanks with random parts of speech (nouns, verbs, adjectives, adverbs, etc.).
 Your task is to write a program that prompts the user for different types of words and then uses those words to generate a funny story.
+
 Directions:
 Create a Story Template
 Design a story with placeholders for different types of words. For example:
